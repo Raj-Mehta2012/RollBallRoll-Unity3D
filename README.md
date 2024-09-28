@@ -2,6 +2,12 @@
 
 This custom rolling ball game builds upon the foundational Unity Roll-a-Ball tutorial with new features that add complexity and creativity to the original design. It was built using Unity 3D with custom assets created in Blender and artwork generated with DALL.E.
 
+### Gameplay & Script Explanation
+
+[GAMEPLAY VIDEO](https://www.youtube.com/watch?v=raSRCZW0C-E))
+
+[SCRIPT EXPLANATION VIDEO](https://www.youtube.com/watch?v=M95SQe67HmE)
+
 ## Game Enhancements
 Here are five significant feature enhancements I implemented in the game:
 

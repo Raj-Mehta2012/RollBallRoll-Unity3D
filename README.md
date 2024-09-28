@@ -4,7 +4,7 @@ This custom rolling ball game builds upon the foundational Unity Roll-a-Ball tut
 
 ### Gameplay & Script Explanation
 
-[GAMEPLAY VIDEO](https://www.youtube.com/watch?v=raSRCZW0C-E))
+[GAMEPLAY VIDEO](https://www.youtube.com/watch?v=raSRCZW0C-E)
 
 [SCRIPT EXPLANATION VIDEO](https://www.youtube.com/watch?v=M95SQe67HmE)
 

@@ -73,6 +73,8 @@ The camera follows the ball to keep it centered on the screen. I implemented the
 ### Licensing and Project Information
 The game is developed under the MIT License. All the code provided is custom-written, with inspiration drawn from various Unity tutorials and my creative input. I credited external references where applicable.
 
+[VIEW LICENSE](https://github.com/Raj-Mehta2012/RollBallRoll-Unity3D/blob/main/LICENSE)
+
 Project Name: RollBallRoll
 Version: 1.0
 

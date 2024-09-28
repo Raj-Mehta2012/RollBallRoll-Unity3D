@@ -6,6 +6,10 @@ This custom rolling ball game builds upon the foundational Unity Roll-a-Ball tut
 
 [GAMEPLAY VIDEO](https://www.youtube.com/watch?v=raSRCZW0C-E)
 
+[![GAMEPLAY VIDEO]          // Title
+(https://github.com/Raj-Mehta2012/RollBallRoll-Unity3D/blob/main/Assets/Thumbnails/DALL%C2%B7E%202024-09-19%2013.08.23%20-%20A%20dynamic%203D%20game%20scene%20with%20a%20futuristic%20look.%20In%20the%20center%2C%20a%20glowing%20ball%20rolls%20through%20a%20maze%20of%20obstacles%2C%20soaring%20over%20spring-loaded%20cubes%2C%20tel.webp)] // Thumbnail
+(https://www.youtube.com/watch?v=raSRCZW0C-E)    // Video Link
+
 [SCRIPT EXPLANATION VIDEO](https://www.youtube.com/watch?v=M95SQe67HmE)
 
 ## Game Enhancements

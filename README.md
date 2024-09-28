@@ -71,13 +71,13 @@ Project Name: RollBallRoll
 Version: 1.0
 
 ### References
-Game Inspiration. https://www.youtube.com/watch?v=bgVvu2JsGEI
-Unity Technologies. Roll a Ball Tutorial. https://learn.unity.com/project/roll-a-ball-tutorial
-Nik Bear Brown. Game Programming Classes Student Work. https://www.youtube.com/playlist?list=PLIS8mRE04MvrZLvLvzZzDV8yqeBasdHfD
-Unity Technologies. Beginner Scripting Course. https://learn.unity.com/course/beginner-scripting
-Unity Technologies. Teaching Game Design and Development. https://learn.unity.com/course/teaching-game-design-and-development
-Unity Technologies. Beginning 3D Game Development. https://learn.unity.com/course/beginning-3d-game-development
-Nik Bear Brown. Unity 5 - Roll a Ball Game Tutorial. https://www.youtube.com/playlist?list=PLX2vGYjWbI0TiP080ELGDurOmz5NAg5CI
-Nik Bear Brown. Roll a Ball Tutorial (Moving the Camera). https://youtu.be/VWeGC4hcJjk
-Nik Bear Brown. Custom Ball Rolling Game. https://www.youtube.com/watch?v=bgVvu2JsGEI
-Image/Splash Screen Generation. https://openai.com/index/dall-e-3/
+- Game Inspiration. https://www.youtube.com/watch?v=bgVvu2JsGEI
+- Unity Technologies. Roll a Ball Tutorial. https://learn.unity.com/project/roll-a-ball-tutorial
+- Nik Bear Brown. Game Programming Classes Student Work. https://www.youtube.com/playlist?list=PLIS8mRE04MvrZLvLvzZzDV8yqeBasdHfD
+- Unity Technologies. Beginner Scripting Course. https://learn.unity.com/course/beginner-scripting
+- Unity Technologies. Teaching Game Design and Development. https://learn.unity.com/course/teaching-game-design-and-development
+- Unity Technologies. Beginning 3D Game Development. https://learn.unity.com/course/beginning-3d-game-development
+- Nik Bear Brown. Unity 5 - Roll a Ball Game Tutorial. https://www.youtube.com/playlist?list=PLX2vGYjWbI0TiP080ELGDurOmz5NAg5CI
+- Nik Bear Brown. Roll a Ball Tutorial (Moving the Camera). https://youtu.be/VWeGC4hcJjk
+- Nik Bear Brown. Custom Ball Rolling Game. https://www.youtube.com/watch?v=bgVvu2JsGEI
+- Image/Splash Screen Generation. https://openai.com/index/dall-e-3/

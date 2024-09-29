@@ -28,7 +28,6 @@ public class RollingBall : MonoBehaviour
         forward.Normalize();
         right.Normalize();
 
-ra
         Vector3 movement = forward * moveVertical + right * moveHorizontal;
 
         // Apply force to the ball based on movement input
